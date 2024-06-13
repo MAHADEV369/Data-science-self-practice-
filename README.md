@@ -6,4 +6,4 @@
 
 3- Pandas Profilling -----https://github.com/MAHADEV369/Data-science-self-practice-/blob/main/pandas%20profilling%20.ipynb--------
 
-4- Standardization 
+4- Standardization ------https://github.com/MAHADEV369/Data-science-self-practice-/blob/main/Standarization%20.ipynb------
