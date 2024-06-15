@@ -9,3 +9,7 @@
 4- Standardization ------https://github.com/MAHADEV369/Data-science-self-practice-/blob/main/Standarization%20.ipynb------
 
 5- normalization--minmax------https://github.com/MAHADEV369/Data-science-self-practice-/blob/main/normalization%20--%20min%20max.ipynb------
+
+6- normalization-maxabsSCALING-------https://github.com/MAHADEV369/Data-science-self-practice-/blob/main/normalization%20--%20max%20abs%20scaling.ipynb---------
+
+7 normalization -robust scaling -----https://github.com/MAHADEV369/Data-science-self-practice-/blob/main/normalization%20--%20robust.ipynb-----
