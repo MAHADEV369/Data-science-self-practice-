@@ -12,4 +12,6 @@
 
 6- normalization-maxabsSCALING-------https://github.com/MAHADEV369/Data-science-self-practice-/blob/main/normalization%20--%20max%20abs%20scaling.ipynb---------
 
-7 normalization -robust scaling -----https://github.com/MAHADEV369/Data-science-self-practice-/blob/main/normalization%20--%20robust.ipynb-----
+7- normalization -robust scaling -----https://github.com/MAHADEV369/Data-science-self-practice-/blob/main/normalization%20--%20robust.ipynb-----
+
+8- column trasformer   ------------https://github.com/MAHADEV369/Data-science-self-practice-/blob/main/using%20column%20transformer.ipynb-------------
