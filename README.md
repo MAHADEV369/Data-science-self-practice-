@@ -15,3 +15,5 @@
 7- normalization -robust scaling -----https://github.com/MAHADEV369/Data-science-self-practice-/blob/main/normalization%20--%20robust.ipynb-----
 
 8- column trasformer   ------------https://github.com/MAHADEV369/Data-science-self-practice-/blob/main/using%20column%20transformer.ipynb-------------
+
+9- sklearn pipeline -----https://github.com/MAHADEV369/Data-science-self-practice-/tree/main/sklearn%20pipelines------
