@@ -17,3 +17,27 @@
 8- column trasformer   ------------https://github.com/MAHADEV369/Data-science-self-practice-/blob/main/using%20column%20transformer.ipynb-------------
 
 9- sklearn pipeline -----https://github.com/MAHADEV369/Data-science-self-practice-/tree/main/sklearn%20pipelines------
+
+10- power transform -------------
+
+11- handling mixed variables -----------------
+
+12- handling missing categorical data -- frequnecy value imputaion --------------
+
+13 -12- handling missing categorical data -- missing categorical imputation ----------------
+
+14- functional transformer custom -------
+
+15- handling date time ---------
+
+16- complete case analysis ---------
+
+17- binning and binarization ---------
+
+18- binarization ----------
+
+19- missing value indicator -  automatically select imputer parameter --------
+
+20-  missing value indicator - missing indicators -------------
+
+21- missing value indicator - random simple imputation ----------- 
