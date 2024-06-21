@@ -18,15 +18,15 @@
 
 9- sklearn pipeline -----https://github.com/MAHADEV369/Data-science-self-practice-/tree/main/sklearn%20pipelines------
 
-10- power transform -------------
+10- power transform -------------https://github.com/MAHADEV369/Data-science-self-practice-/blob/main/power%20transformer.ipynb---------
 
-11- handling mixed variables -----------------
+11- handling mixed variables -----------------https://github.com/MAHADEV369/Data-science-self-practice-/blob/main/handling%20mixed%20variables.ipynb---------------
 
-12- handling missing categorical data -- frequnecy value imputaion --------------
+12- handling missing categorical data -- frequnecy value imputaion --------------https://github.com/MAHADEV369/Data-science-self-practice-/blob/main/handling%20missing%20categorical%20data%20-%20frequency%20value%20imputation.ipynb-------------
 
-13 -12- handling missing categorical data -- missing categorical imputation ----------------
+13 -handling missing categorical data -- missing categorical imputation ----------------https://github.com/MAHADEV369/Data-science-self-practice-/blob/main/handling%20missing%20categorical%20data%20-%20missing%20categorical%20imputation%20.ipynb---------
 
-14- functional transformer custom -------
+14- functional transformer custom -------https://github.com/MAHADEV369/Data-science-self-practice-/blob/main/Functional%20transformer%20(custom%20).ipynb------------
 
 15- handling date time ---------
 
