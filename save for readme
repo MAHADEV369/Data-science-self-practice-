@@ -1,0 +1,72 @@
+Here is the organized and formatted list for your GitHub README:
+
+---
+
+# Data Science Self Practice
+
+## Exploratory Data Analysis (EDA)
+
+1. [Univariate Analysis EDA](https://github.com/MAHADEV369/Data-science-self-practice-/blob/main/univariate%20analysis.ipynb) - 12/06/2024
+2. [Bivariate Analysis EDA](https://github.com/MAHADEV369/Data-science-self-practice-/blob/main/bivariate%20analysis%20EDA.ipynb)
+3. [Pandas Profiling](https://github.com/MAHADEV369/Data-science-self-practice-/blob/main/pandas%20profilling%20.ipynb)
+
+## Data Transformation
+
+4. [Standardization](https://github.com/MAHADEV369/Data-science-self-practice-/blob/main/Standarization%20.ipynb)
+5. [Normalization - MinMax](https://github.com/MAHADEV369/Data-science-self-practice-/blob/main/normalization%20--%20min%20max.ipynb)
+6. [Normalization - MaxAbs Scaling](https://github.com/MAHADEV369/Data-science-self-practice-/blob/main/normalization%20--%20max%20abs%20scaling.ipynb)
+7. [Normalization - Robust Scaling](https://github.com/MAHADEV369/Data-science-self-practice-/blob/main/normalization%20--%20robust.ipynb)
+8. [Column Transformer](https://github.com/MAHADEV369/Data-science-self-practice-/blob/main/using%20column%20transformer.ipynb)
+9. [Sklearn Pipeline](https://github.com/MAHADEV369/Data-science-self-practice-/tree/main/sklearn%20pipelines)
+10. [Power Transform](https://github.com/MAHADEV369/Data-science-self-practice-/blob/main/power%20transformer.ipynb)
+
+## Handling Missing Data
+
+11. [Handling Mixed Variables](https://github.com/MAHADEV369/Data-science-self-practice-/blob/main/handling%20mixed%20variables.ipynb)
+12. [Handling Missing Categorical Data - Frequency Value Imputation](https://github.com/MAHADEV369/Data-science-self-practice-/blob/main/handling%20missing%20categorical%20data%20-%20frequency%20value%20imputation.ipynb)
+13. [Handling Missing Categorical Data - Missing Categorical Imputation](https://github.com/MAHADEV369/Data-science-self-practice-/blob/main/handling%20missing%20categorical%20data%20-%20missing%20categorical%20imputation%20.ipynb)
+14. [Functional Transformer Custom](https://github.com/MAHADEV369/Data-science-self-practice-/blob/main/Functional%20transformer%20(custom%20).ipynb)
+15. [Handling Date Time](https://github.com/MAHADEV369/Data-science-self-practice-/blob/main/handling%20date%20and%20time%20.ipynb)
+16. [Complete Case Analysis](https://github.com/MAHADEV369/Data-science-self-practice-/blob/main/complete%20case%20analysis.ipynb)
+
+## Binning and Binarization
+
+17. [Binning and Binarization](https://github.com/MAHADEV369/Data-science-self-practice-/blob/main/binning%20and%20binarization.ipynb)
+18. [Binarization](https://github.com/MAHADEV369/Data-science-self-practice-/blob/main/binarization.ipynb)
+
+## Missing Value Indicators
+
+19. [Missing Value Indicator - Automatically Select Imputer Parameter](https://github.com/MAHADEV369/Data-science-self-practice-/blob/main/missing%20indicators%20---%20automatically%20select%20imputer%20parameter.ipynb)
+20. [Missing Value Indicator - Missing Indicators](https://github.com/MAHADEV369/Data-science-self-practice-/blob/main/missing%20indicators%20---%20missing%20indicators.ipynb)
+21. [Missing Value Indicator - Random Simple Imputation](https://github.com/MAHADEV369/Data-science-self-practice-/blob/main/missing%20indicators%20---%20random%20simple%20imputation.ipynb)
+
+## Imputation Techniques
+
+22. KNN Imputer
+23. MICE Algorithm
+
+## Outlier Removal
+
+24. Outlier Removal Using Z-score
+25. Outlier Removal Using IQR Method
+26. Outlier Removal Using Percentile Method
+
+## Feature Engineering
+
+27. Feature Construction
+
+## Dimensionality Reduction
+
+28. Principal Component Analysis (PCA)
+
+## Regression Analysis
+
+29. Simple Linear Regression
+30. Simple Linear Regression from Scratch
+31. Regression Metrics
+32. Multiple Linear Regression
+33. Gradient Descent
+
+---
+
+Feel free to customize the titles and descriptions as needed.
