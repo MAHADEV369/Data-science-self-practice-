@@ -28,16 +28,40 @@
 
 14- functional transformer custom -------https://github.com/MAHADEV369/Data-science-self-practice-/blob/main/Functional%20transformer%20(custom%20).ipynb------------
 
-15- handling date time ---------
+15- handling date time ---------https://github.com/MAHADEV369/Data-science-self-practice-/blob/main/handling%20date%20and%20time%20.ipynb--------
 
-16- complete case analysis ---------
+16- complete case analysis ---------https://github.com/MAHADEV369/Data-science-self-practice-/blob/main/complete%20case%20analysis.ipynb----------
 
-17- binning and binarization ---------
+17- binning and binarization ---------https://github.com/MAHADEV369/Data-science-self-practice-/blob/main/binning%20and%20binarization.ipynb-----------------
 
-18- binarization ----------
+18- binarization ----------https://github.com/MAHADEV369/Data-science-self-practice-/blob/main/binarization.ipynb---------------
 
-19- missing value indicator -  automatically select imputer parameter --------
+19- missing value indicator -  automatically select imputer parameter --------https://github.com/MAHADEV369/Data-science-self-practice-/blob/main/missing%20indicators%20---%20automatically%20select%20imputer%20parameter.ipynb---------------
 
-20-  missing value indicator - missing indicators -------------
+20-  missing value indicator - missing indicators -------------https://github.com/MAHADEV369/Data-science-self-practice-/blob/main/missing%20indicators%20---%20missing%20indicators.ipynb------------------
 
-21- missing value indicator - random simple imputation ----------- 
+21- missing value indicator - random simple imputation ----------- https://github.com/MAHADEV369/Data-science-self-practice-/blob/main/missing%20indicators%20---%20random%20simple%20imputation.ipynb--------------------
+
+22- Knn IMPUTER 
+
+23- mice algorithm
+
+24- outlier removal using Z-score 
+
+25- outlier removal using IQR method
+
+26- outlier removal using percentile method 
+
+27- feature construction
+
+28- PCA
+
+29- Simple linear regression 
+
+30- simple linear regression scratch 
+
+31- regression metrics 
+
+32- multiple linear regression 
+
+33- gradient descent 
